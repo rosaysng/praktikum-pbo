@@ -1,3 +1,7 @@
+//Nama : Rosa Yohana Sinaga
+//NIM  : 24060122120009
+//Tanggal : 11 Mei 2024
+
 class Kupu{
     void gerak(){
     }    
